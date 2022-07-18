@@ -15,3 +15,5 @@ Add `edit` or `jaccard` at the end of any command to use Edit Distance and Jacca
 Add `all` to use all the algorithms in the program
 
 *Note: Edit Distance is particularly slow, so don't use too many words or evalutaions with it*
+
+*The main algorithm uses Peter Norvig's technique*
