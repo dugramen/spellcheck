@@ -16,6 +16,6 @@ A simple spell checking program.
 
 -  Add `all` to use all the algorithms in the program
 
-*Note: Edit Distance is particularly slow, so don't use too many words or evalutaions with it*
+*Note: "Edit Distance" is particularly slow, so don't use too many words or evalutaions with that algorithm*
 
 *The main algorithm uses Peter Norvig's technique*
